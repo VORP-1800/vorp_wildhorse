@@ -1,12 +1,13 @@
 Config = {}
 
 Config.Language = {
-    NoMount = "You aren't mounted on a horse",
-    NotInTheTrainer = "I won't buy that animal",
-    AnimalSold = "Thanks for the deal!",
-    notatrainer = "You Dont Have The Right Job",
-    NotBroken = "Your horse is not broken",
+    NoMount = "No estás montado en un caballo",
+    NotInTheTrainer = "No compraré ese animal",
+    AnimalSold = "¡Gracias por el trato!",
+    notatrainer = "No tienes el trabajo adecuado",
+    NotBroken = "Tu caballo no está domado",
 }
+
 
 Config.aiTrainerped = true    -- spawn ai trainer ped set to false if you dont want an ai trainer ped to spawn
 
