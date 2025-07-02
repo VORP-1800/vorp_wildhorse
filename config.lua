@@ -20,7 +20,7 @@ Config.trainers = {
 
     {
         trainername = "Blackwater Trainer",
-        trainerjob = { trainer = true },
+        trainerjob = { trainer = false },
         pressToSell = "sell",
         blip = -1103135225,
         npcmodel = "A_M_M_ValFarmer_01",
@@ -31,7 +31,7 @@ Config.trainers = {
 
     {
         trainername = "Saint Denis Trainer",
-        trainerjob = { trainer = true },
+        trainerjob = { trainer = false },
         pressToSell = "sell",
         blip = -1103135225,
         npcmodel = "A_M_M_ValFarmer_01",
@@ -42,7 +42,7 @@ Config.trainers = {
 
     {
         trainername = "Armadillo Trainer",
-        trainerjob = { trainer = true },
+        trainerjob = { trainer = false },
         pressToSell = "sell",
         blip = -1103135225,
         npcmodel = "A_M_M_ValFarmer_01",
